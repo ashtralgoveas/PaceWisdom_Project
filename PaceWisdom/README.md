@@ -1,1 +1,1 @@
-# DBMS-MINI-PROJECT
+# Pace Wisdom Quarantine Survey Project
